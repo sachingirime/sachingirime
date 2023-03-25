@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sachin_someone" target="blank"><img src="https://img.shields.io/twitter/follow/sachin_someone?logo=twitter&style=for-the-badge" alt="sachin_someone" /></a> </p>
 
-- 🔭 I’m currently working on **Prosthetic Arm, Plastic waste detection, Baghchal,**
+- 🔭 I’m currently working on **Prosthetic Arm, Plastic waste detection, Baghchal**
 
 - 🌱 I’m currently learning **Reinforcement Learning, Open AI GYM, Open CV**
 
