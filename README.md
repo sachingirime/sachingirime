@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Prosthetic Arm, Plastic waste detection, Baghchal,**
 
-- 🌱 I’m currently learning **Reinforcement Learning, Open AI GYM**
+- 🌱 I’m currently learning **Reinforcement Learning, Open AI GYM, Open CV**
 
 - 📝 I regularly write articles on [https://medium.com/@suchingiri.me](https://medium.com/@suchingiri.me)
 
