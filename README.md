@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **girisachin348@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/iro3xxxazqhfpnt/sachin_Resume.pdf?dl=0](https://www.dropbox.com/s/iro3xxxazqhfpnt/sachin_Resume.pdf?dl=0)
+- 📄 Know about my experiences [https://lime-laurice-65.tiiny.site/](https://lime-laurice-65.tiiny.site/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
