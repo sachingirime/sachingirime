@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Giri</h1>
 <h3 align="center">Dynamic and Hardworking learner with keen interests in AI, Deep learning and Robotics, mathematics, problem solving and critical analysis.</h3>
+<p align = "left">My personal website: <a href="www.sachingiri03.com.np" target="blank"></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachingirime&label=Profile%20views&color=0e75b6&style=flat" alt="sachingirime" /> </p>
 
