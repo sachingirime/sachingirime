@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@suchingiri.me](https://medium.com/@suchingiri.me)
 
-- Visit my personal website at [https://sachingiri03.com.np](https://sachingiri03.com.np)
+- 🚀 Visit my personal website at [https://sachingiri03.com.np](https://sachingiri03.com.np)
 
 - 💬 Ask me about **Robotics, Deep learning, react, Embedded systems**
 
