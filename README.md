@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sachin Giri</h1>
 <h3 align="center">Dynamic and Hardworking learner with keen interests in AI, Deep learning and Robotics, mathematics, problem solving and critical analysis.</h3>
-<p align = "left">My personal website: <a href="www.sachingiri03.com.np" target="blank"></a></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachingirime&label=Profile%20views&color=0e75b6&style=flat" alt="sachingirime" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sachin_someone" target="blank"><img src="https://img.shields.io/twitter/follow/sachin_someone?logo=twitter&style=for-the-badge" alt="sachin_someone" /></a> </p>
 
-- 🔭 I’m currently working on **Prosthetic Arm, Plastic waste detection, Baghchal**
+- 🔭 I’m currently working at **MESA Lab, UC, Merced**
 
-- 🌱 I’m currently learning **Reinforcement Learning, Open AI GYM, Open CV**
+- 🌱 I’m currently learning **Reinforcement Learning, Control System**
 
 - 📝 I regularly write articles on [https://medium.com/@suchingiri.me](https://medium.com/@suchingiri.me)
+
+- Visit my personal website at [https://sachingiri03.com.np](https://sachingiri03.com.np)
 
 - 💬 Ask me about **Robotics, Deep learning, react, Embedded systems**
 
