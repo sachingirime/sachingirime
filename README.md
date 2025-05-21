@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working at **MESA Lab, UC, Merced**
 
-- 🌱 I’m currently learning **Reinforcement Learning, Control System**
+- 🌱 I’m currently learning **WHATEVER INTERESTS ME**
 
 - 📝 I regularly write articles on [https://medium.com/@suchingiri.me](https://medium.com/@suchingiri.me)
 
 - 🚀 Visit my personal website at [https://sachingiri03.com.np](https://sachingiri03.com.np)
 
-- 💬 Ask me about **Robotics, Deep learning, react, Embedded systems**
+- 💬 Ask me about **Hyperspectal Imagining, Generative AI, Robotics, Deep learning, react, Embedded systems**
 
 - 📫 How to reach me **girisachin348@gmail.com**
 
