@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at **MESA Lab, UC, Merced**
 
-- 🌱 I’m currently learning **Physics Informed Neural Networks, Explainability and Uncertainty Quantification in ML models, Satellite detection of greenhouse gases**
+- 🌱 I’m currently learning **Physics Informed Neural Networks, Explainability and Uncertainty Quantification in ML models, Satellite detection of greenhouse gases, UGV and sUAS field robotics for environmental monitoring**
 
 - 📝 I regularly write articles on [https://medium.com/@suchingiri.me](https://medium.com/@suchingiri.me)
 
